@@ -119,8 +119,5 @@ To further improve the model’s accuracy:**
     Additional models, such as GradientBoostingRegressor or CatBoostRegressor, could be incorporated to explore ensemble model combinations.
     Incorporating time-series analysis for better temporal pattern recognition in wildfire occurrences could improve predictions.
 
-Let me know if you'd like further adjustments to the document!
-How would you rate this GPT so far?
 
-ChatGPT can make mistakes. Check important info.
 
